@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi My name is Sudhanshu Dhasmana and I'm from Dehradun. I'm pursuing Masters of Computer Application from Graphic Era Hill University.<br>Also I'm currently working as a Associate Software Engineer at Indorse Technologies Pvt Ltd.
+Yo guys 👋 Sudhanshu this side 😄
+I’m from Dehradun, currently doing my MCA at Graphic Era Hill University 🎓
+By day, I’m an Associate Software Engineer at Indorse Technologies Pvt. Ltd. 💻
+Just out here learning, building, and leveling up 🚀
 
 
 ## 🌐 Socials:
