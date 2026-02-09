@@ -1,7 +1,7 @@
 # 💫 About Me:
 Yo guys 👋 Sudhanshu this side 😄
 I’m from Dehradun, currently doing my MCA at Graphic Era Hill University 🎓
-By day, I’m an Associate Software Engineer at Indorse Technologies Pvt. Ltd. 💻
+By day, I’m an Software Engineer Intern at Indorse Technologies Pvt. Ltd. 💻
 Just out here learning, building, and leveling up 🚀
 
 
